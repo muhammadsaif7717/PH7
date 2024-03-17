@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Chicken Stir-Fry",
+      "image": "https://i.postimg.cc/C14yLp9g/crispy-fried-chicken-plate-with-salad-carrot.jpg",
+      "description": "A quick and flavorful stir-fry dish packed with tender chicken and fresh vegetables.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushrooms"],
+      "preparing_time": "30",
+      "calories": "320"
+    },
+    {
+      "id": 2,
+      "name": "Vegetable Pasta Primavera",
+      "image": "https://i.postimg.cc/R0pmcBXL/prepared-dish-fusilli-with-tomato-broccoli.jpg",
+      "description": "A vibrant pasta dish featuring seasonal vegetables tossed in a light tomato sauce.",
+      "ingredients": ["300 g pasta", "2 cups mixed vegetables", "200 g cherry tomatoes", "100 ml olive oil"],
+      "preparing_time": "25",
+      "calories": "280"
+    },
+    {
+      "id": 3,
+      "name": "Grilled Salmon Salad",
+      "image": "https://i.postimg.cc/d1cbRVGd/mixed-salad-fresh-vegetables-with-pieces-salmon.jpg",
+      "description": "A refreshing salad topped with grilled salmon fillets and a zesty lemon dressing.",
+      "ingredients": ["400 g salmon fillets", "150 g mixed greens", "1 lemon", "50 g almonds"],
+      "preparing_time": "20",
+      "calories": "250"
+    },
+    {
+      "id": 4,
+      "name": "Mushroom Risotto",
+      "image": "https://i.postimg.cc/vHyKZmsx/pasta-with-meatballs-mushrooms-creamy-sauce.jpg",
+      "description": "A creamy and comforting risotto dish infused with earthy mushrooms and Parmesan cheese.",
+      "ingredients": ["300 g Arborio rice", "500 g mushrooms", "1 onion", "100 g Parmesan cheese"],
+      "preparing_time": "40",
+      "calories": "380"
+    },
+    {
+      "id": 5,
+      "name": "BBQ Pulled Pork Sandwiches",
+      "image": "https://i.postimg.cc/RVRGXQnX/delicious-turkey-sandwich-with-melted-cheese-eggs-fresh-lettuce-with-cherry-tomatoes.jpg",
+      "description": "Tender pulled pork smothered in barbecue sauce, served on toasted buns with coleslaw.",
+      "ingredients": ["1 kg pork shoulder", "250 ml barbecue sauce", "4 hamburger buns", "200 g coleslaw"],
+      "preparing_time": "50",
+      "calories": "420"
+    },
+    {
+      "id": 6,
+      "name": "Caprese Salad",
+      "image": "https://i.postimg.cc/kGkVyHvB/apetizer-salad-with-mozarella-tomato-rolls.jpg",
+      "description": "A classic Italian salad featuring ripe tomatoes, fresh mozzarella, and fragrant basil leaves.",
+      "ingredients": ["4 tomatoes", "200 g mozzarella cheese", "1 bunch fresh basil", "2 tbsp balsamic vinegar"],
+      "preparing_time": "15",
+      "calories": "180"
+    }
+  ]
+  
